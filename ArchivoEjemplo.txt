@@ -1,5 +1,7 @@
 Hola git!
 De remote a local
 
+Linea creada por remote
+
 Colision desde local
 Colision desde remote
